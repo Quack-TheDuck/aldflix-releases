@@ -1,11 +1,11 @@
 {
-  "version": "1.0.0-beta.5",
-  "notes": "ALDFLIX Beta 5 for macOS Apple Silicon.",
-  "pub_date": "2026-10-30T06:10:49Z",
+  "version": "1.0.0-beta.6",
+  "notes": "",
+  "pub_date": "2026-11-01T00:25:50.485Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZTR3SW5sc0lzV0JUVmN5SDA3aU9HZld3Mlp2S0hZRGgraUk4b2VlVVZwNVFkSXFXMHZUL2RNQ3dpNVJsalpYU0h1WEMyaWJNTTJoT3JmbEcrbEhHY1Z5a2JKMU1wWHdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzE1NDM0CWZpbGU6QUxERkxJWC5hcHAudGFyLmd6CmM1UkNCR28wTjQyUVNDZlVMZElDaytwUjk2NksxVld2UXdkM0dqemFRRkY1bzhWV0VQZ09oRVBGeko0elc5YXhvcW9BT2pmVmEyVEVWRUd0U0EvaUF3PT0K",
-      "url": "https://github.com/Quack-TheDuck/aldflix-releases/releases/download/v1.0.0-beta.5/ALDFLIX_1.0.0-beta.5_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZTR3SW5sc0lzV05YYVZ0ckRyazF2enlmc2RhZnp3K0JZZEhuUHYyNE1OdUFJcTBuc2hLVm1YWk1nYXdpU0ZubnowTjN3SG0zTmdtdGVOT2xzNU5hM0pIYWFmWEhBZHdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDkxNjA5CWZpbGU6QUxERkxJWC5hcHAudGFyLmd6CnNpNmpnTS9Kb2doWXRsWUR5U1ZMN21kRTJnTlhjQ0N1ZDhsZzdidjJ0WDZNMGVGUjRySTkyZXNHUXNoT0tJZHhHenpITGNYS0ozQm5TWGM1cU9GakRBPT0K",
+      "url": "https://github.com/Quack-TheDuck/aldflix-releases/releases/download/v1.0.0-beta.6/ALDFLIX_1.0.0-beta.6_aarch64.app.tar.gz"
     }
   }
 }
