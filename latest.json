@@ -1,11 +1,15 @@
 {
-  "version": "1.0.0-beta.6",
-  "notes": "",
-  "pub_date": "2026-11-01T00:25:50.485Z",
+  "version": "1.0.0-beta.7",
+  "notes": "ALDFLIX beta 7 for macOS Apple Silicon and Windows x64.",
+  "pub_date": "2026-11-02T22:11:24Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZTR3SW5sc0lzV05YYVZ0ckRyazF2enlmc2RhZnp3K0JZZEhuUHYyNE1OdUFJcTBuc2hLVm1YWk1nYXdpU0ZubnowTjN3SG0zTmdtdGVOT2xzNU5hM0pIYWFmWEhBZHdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDkxNjA5CWZpbGU6QUxERkxJWC5hcHAudGFyLmd6CnNpNmpnTS9Kb2doWXRsWUR5U1ZMN21kRTJnTlhjQ0N1ZDhsZzdidjJ0WDZNMGVGUjRySTkyZXNHUXNoT0tJZHhHenpITGNYS0ozQm5TWGM1cU9GakRBPT0K",
-      "url": "https://github.com/Quack-TheDuck/aldflix-releases/releases/download/v1.0.0-beta.6/ALDFLIX_1.0.0-beta.6_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZTR3SW5sc0lzV0p0OEx4UmZ6N0JPcW5HZGhzaWZIdEZ5b0lPQ2RVcm1qUzcydEp1Q0tjUnY2TENmUG56QVFRL0t0L3ZJQ3JrLy9WaWRIV1FFNkF0RlJRclhqSDBoYkFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjQ0OTU2CWZpbGU6QUxERkxJWC5hcHAudGFyLmd6CldBbXJkcUtTdzgwZmtiK2lZNjN4S3huZzFLSzJHVWpqRzA0Zno0eXB5dHVsUmNKSXMyYkNsdHRLSDVqTXJtL2NRWlpBMEpJV3paRG54bGIxVmVZTERnPT0K",
+      "url": "https://github.com/Quack-TheDuck/aldflix-releases/releases/download/v1.0.0-beta.7/ALDFLIX_1.0.0-beta.7_aarch64.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZTR3SW5sc0lzV0NoY0R0RUlhV1d4bXBOMzU2UHNpalBxdTV2N01pb2lZbUVUNnhvNHhJTFRpZnNWL042YWVUUmY2UlJyYlJRNVNMeisxVkFIRkFXOFZGckhiaHdYc2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjU2NDkzCWZpbGU6QUxERkxJWF8xLjAuMC1iZXRhLjdfeDY0LXNldHVwLm5zaXMuemlwCkxIQjFXc1AxdTB6aDJFOTc0WHRkelIyMmx5ZHZUWTJHWXU1V29IOStpQ3MzaVI2SkR2NHh1RjZsNmFqenZ2QXl4eXp0M2w5K3Uxc2JhRzZUSU0raENBPT0K",
+      "url": "https://github.com/Quack-TheDuck/aldflix-releases/releases/download/v1.0.0-beta.7/ALDFLIX_1.0.0-beta.7_x64-setup.nsis.zip"
     }
   }
 }
